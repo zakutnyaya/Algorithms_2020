@@ -5,7 +5,10 @@
 # Список контестов:
 1. https://contest.yandex.ru/contest/17701/
 2. https://contest.yandex.ru/contest/17908/
-2. https://contest.yandex.ru/contest/17993/
+3. https://contest.yandex.ru/contest/17993/
+4-6. https://contest.yandex.ru/contest/18135/
+7. https://contest.yandex.ru/contest/18502/
+8-9. https://contest.yandex.ru/contest/18752/
 
 В папках находятся материалы с лекции/практики с соответствующим номером. 
 
